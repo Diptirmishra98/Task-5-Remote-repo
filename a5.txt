@@ -1,2 +1,6 @@
 Hello
+<<<<<<< HEAD
 GodBless
+=======
+ComeTo
+>>>>>>> feature-1a
