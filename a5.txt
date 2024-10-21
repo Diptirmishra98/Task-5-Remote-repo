@@ -1,8 +1,5 @@
 Hello
-<<<<<<< HEAD
 JustBeAware
 GodBless
-
-=======
 ComeTo
->>>>>>> feature-1a
+
